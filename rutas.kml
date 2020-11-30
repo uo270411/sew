@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>N1612080.LOG</name>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+-4.9911111111111115, 43.3188889,409
+-5.041111111111111,43.3422222,128
+-4.966944444444445,43.3358333,209
+-4.9884012,43.284189,840
+-5.981215493284964,43.292250967713926,73
+-6.016944444444444,43.2508333,211
+-6.094166666666666,43.1713889,422
+-5.966666666666667,43.15,443
+-6.5247222222222225,43.5336111,85
+-6.535833333333334,43.5438889,9
+-6.535833333333334,43.5438889,277
+-6.5313888888888885,43.3463889,123
+</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</LineString>
+<Style> id='lineaRoja'>
+<LineStyle>
+<color>#ff0000ff</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+</Document>
+</kml>
